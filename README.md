@@ -10,4 +10,3 @@ Meu nome é Reyson, sou aluno do curso de **Analise e Desenvolvimento de Sistema
 ## Mais infomações:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameNosyer&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameNosyer&theme=react)
