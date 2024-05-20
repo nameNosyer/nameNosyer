@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Intagram-20232a?-square&logo=Instagram&logoColor&link=https://www.instagram.com/reyson_renan/)](https://www.instagram.com/reyson_renan/)
 
 
-Meu nome é Reyson, sou aluno do curso de **Analise e Desenvolvimento de Sistemas** no **IFPB-CZ**
+Meu nome é Renan, sou tecnólogo em **Analise e Desenvolvimento de Sistemas** pelo **IFPB-CZ**
 
 ## Mais infomações:
 
